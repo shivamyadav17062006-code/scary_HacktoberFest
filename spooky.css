@@ -1,3 +1,39 @@
+*
+{
+    color: orange;
+}
 body{
     background:#E26227;
+    background-image: url("https://wallpaperset.com/w/full/d/d/4/253410.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+h1
+{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: orange;
+    font-family: 'Eater', cursive;
+    letter-spacing: 0.3cm;
+    font-size: 5ch;
+
+}
+
+p
+{
+    font-size: 2ch;
+    text-align: center;
+    font-family: 'Nosifer', cursive;
+    letter-spacing: 1ch;
+
+
+}
+
+button
+{
+    align-items: center;
+    text-align: center;
+    color: black;
 }
