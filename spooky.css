@@ -4,6 +4,7 @@
 }
 body{
     background:#E26227;
+
     background-image: url("https://wallpaperset.com/w/full/d/d/4/253410.jpg");
     background-repeat: no-repeat;
     background-size: cover;
@@ -36,3 +37,14 @@ button
     text-align: center;
     color: black;
 }
+
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
