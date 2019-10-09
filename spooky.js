@@ -1,3 +1,3 @@
 function funFunction(){
-    alert("college")
+    alert("Get spooked!");
 }
