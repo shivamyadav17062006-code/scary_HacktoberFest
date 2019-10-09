@@ -1,3 +1,9 @@
-body{
+body {
     background:#E26227;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+button {
+    margin-bottom: 15px;
 }
