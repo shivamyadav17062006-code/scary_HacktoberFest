@@ -1,3 +1,3 @@
 function funFunction(){
-    alert("Get spooked!");
+    alert("Boo! Get spooked!");
 }
