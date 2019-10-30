@@ -1,3 +1,3 @@
 function funFunction(){
-    alert("php");
+    alert("college");
 }
